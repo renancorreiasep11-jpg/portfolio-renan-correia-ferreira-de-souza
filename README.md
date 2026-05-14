@@ -1,4 +1,4 @@
-# Renan Correia Ferreira de Souza
+# Renan Correia Ferreira de Sousa
 > Estudante de Analise e Desenvolvimento de Sistemas Universidade Cidade de São Paulo
  
 ---
